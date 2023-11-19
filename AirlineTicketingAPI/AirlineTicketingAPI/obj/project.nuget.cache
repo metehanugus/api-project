@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "mj4xFAL6wyhrzM4R4MJAHkD3V0bZqb/RtCcGVDMIJGT+ruR52AA7rCoNLbYjlVdCQo51St+4WT/6lloh7rS3/Q==",
+  "success": true,
+  "projectFilePath": "D:\\api-project\\AirlineTicketingAPI\\AirlineTicketingAPI\\AirlineTicketingAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\meteh\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\meteh\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\meteh\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\meteh\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\meteh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\meteh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
